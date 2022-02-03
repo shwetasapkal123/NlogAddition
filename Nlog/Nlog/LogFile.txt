@@ -1,0 +1,2 @@
+﻿2022-02-03 13:15:26.4245 DEBUG Debug Successful:Sum()
+2022-02-03 13:15:27.5696 INFO Sum Method passed result:5
